@@ -1,6 +1,8 @@
 ####  Information ------------------------------------------------------------------
-####  Authors: Fernanda Alves-Martins, Sara Villén-Pérez, Ignacio Morales-Castilla
-####  Title: Proof-of-concept Filling index procedure
+####  Manuscript title: The neglected role of limiting factors in large-scale abundance patterns
+####  Authors: Fernanda Alves-Martins, Ignacio Morales-Castilla, Enrique Andivia, Sara Villén-Pérez
+####  Code title: Proof-of-concept Filling index procedure
+####  Code authors: Fernanda Alves-Martins, Sara Villén-Pérez, Ignacio Morales-Castilla
 ####  Date: June 2022
 ####  Last update: November 11 2022
 ####     
