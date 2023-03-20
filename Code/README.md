@@ -7,6 +7,9 @@
 ####  Workflow: 
 ####    1. fi: Function to calculate plot filling index
 ####    2. null_model_fi: Function that simulate line-shaped plots, generate a 
-####      null distribution of filling indexes, and compare the observed 
+####       null distribution of filling indexes, and compare the observed 
 ####       filling index to the simulated plots  
 ####    3. Running "null_model_fi" function
+####
+####  The test spreadsheet, "fagus_grand.csv" used for demonstrating the code is available
+####      at the section "Data"
